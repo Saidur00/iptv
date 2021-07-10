@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Sports",GTV
-http://tv.ebox.live:8081/thunderbd/1/chunks.m3u8?nimblesessionid=1596514&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDc6NTc6MDYgUE0maGFzaF92YWx1ZT15WlJ6L1IyR3p6UnNOb1hXb2kzUzJ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://tv.ebox.live:8081/thunderbd/1/chunks.m3u8?nimblesessionid=1603765&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDk6MjM6NTMgUE0maGFzaF92YWx1ZT1lQ1BLRkxOVmxHTy9MRXM2QXg2M0NBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 group-title="Sports",T Sports
 http://tv.ebox.live:8081/thunderbd/102/chunks.m3u8?nimblesessionid=1596792&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDc6NTk6MzcgUE0maGFzaF92YWx1ZT1VM0lmRWF3N2JpWC9sbWJtckdJVVl3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 group-title="News",Jamuna TV
