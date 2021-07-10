@@ -117,11 +117,11 @@ http://tv.ebox.live:8081/thunderbd/96/chunks.m3u8?nimblesessionid=1602106&wmsAut
 http://tv.ebox.live:8081/thunderbd/57/chunks.m3u8?nimblesessionid=1602163&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDk6MDA6MjcgUE0maGFzaF92YWx1ZT1yRG5CbWpuQTFFM3ZqdEhuK1NwL2RnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 group-title="Indian",Kolkata TV
 http://tv.ebox.live:8081/thunderbd/46/chunks.m3u8?nimblesessionid=1602318&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDk6MDE6NTEgUE0maGFzaF92YWx1ZT1KakZTNTRvNGhocEhvbUJLNkVSc3lBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-EXTINF:-1 group-title="Info",Discovery HD
+EXTINF:-1 group-title="Infotainment",Discovery HD
 http://tv.ebox.live:8081/thunderbd/43/chunks.m3u8?nimblesessionid=1602435&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDk6MDI6NDMgUE0maGFzaF92YWx1ZT1na2FOM2FOZkF1d2NjS3BNVG5zVTl3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-EXTINF:-1 group-title="Info",National Geographic Channel
+EXTINF:-1 group-title="Infotainment",National Geographic Channel
 http://tv.ebox.live:8081/thunderbd/35/chunks.m3u8?nimblesessionid=1602555&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDk6MDQ6MDAgUE0maGFzaF92YWx1ZT1rMnB0WmREem1hZGVwNkM4ZWNYUFBBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-EXTINF:-1 group-title="Info",Duronto TV
+EXTINF:-1 group-title="Infotainment",Duronto TV
 http://tv.ebox.live:8081/thunderbd/10/chunks.m3u8?nimblesessionid=1602613&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDk6MDU6MDAgUE0maGFzaF92YWx1ZT1OSWt5VEdyMWNjd1FFZDM5anRJSFFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-EXTINF:-1 group-title="Info",Nick Jr.
+EXTINF:-1 group-title="Infotainment",Nick Jr.
 http://tv.ebox.live:8081/thunderbd/55/chunks.m3u8?nimblesessionid=1602669&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDk6MDU6MzcgUE0maGFzaF92YWx1ZT1CdTFsemJPbXN4N2JlTHhTRk9XdlB3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
