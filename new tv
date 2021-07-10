@@ -13,3 +13,115 @@ http://tv.ebox.live:8081/thunderbd/6/chunks.m3u8?nimblesessionid=1597419&wmsAuth
 http://tv.ebox.live:8081/thunderbd/18/chunks.m3u8?nimblesessionid=1597556&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MDU6MDkgUE0maGFzaF92YWx1ZT1uSEdmZ282VHlyWHhEZGg1d0c2azh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 group-title="News",Masranga TV
 http://tv.ebox.live:8081/thunderbd/51/chunks.m3u8?nimblesessionid=1597688&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MDU6NTkgUE0maGFzaF92YWx1ZT1tZWpqTzNNelE5ZFI2WC82cVZpUmd3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="News",Ekushe ETV
+http://tv.ebox.live:8081/thunderbd/65/chunks.m3u8?nimblesessionid=1598069&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MDk6MTIgUE0maGFzaF92YWx1ZT02cTBKMmxVNlQ5SFpKcytUYk5RMVRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="News",Channel 24
+http://tv.ebox.live:8081/thunderbd/5/chunks.m3u8?nimblesessionid=1598154&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MTA6MjQgUE0maGFzaF92YWx1ZT0vUm4xbDRVaEwwV21pYUY3aXFnM1NBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="News",independent TV
+http://tv.ebox.live:8081/thunderbd/12/chunks.m3u8?nimblesessionid=1598223&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MTE6MjYgUE0maGFzaF92YWx1ZT1rbnZLZXNjUXBtb0wvWWx5VjlkWDFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="News",BTV
+http://tv.ebox.live:8081/thunderbd/53/chunks.m3u8?nimblesessionid=1598307&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MTI6MjYgUE0maGFzaF92YWx1ZT03WUV6SHpzemFRc0p6bkdKRm9Remx3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="News",RTV
+http://tv.ebox.live:8081/thunderbd/14/chunks.m3u8?nimblesessionid=1598375&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MTM6MTQgUE0maGFzaF92YWx1ZT1oNWkrMnVYOGgzelVJaFNpTFpJODhRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="News",NTV
+http://tv.ebox.live:8081/thunderbd/54/chunks.m3u8?nimblesessionid=1598509&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MTQ6NTQgUE0maGFzaF92YWx1ZT0xdHdiQVc3TVNyRmtJVzBQS3N0M1FRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="News",ATN Bangla
+http://tv.ebox.live:8081/thunderbd/2/chunks.m3u8?nimblesessionid=1598561&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MTU6MzIgUE0maGFzaF92YWx1ZT1qSFpsbEdwdW9jcUdFaEtLQzhVN3FRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="News",Channel 9
+http://tv.ebox.live:8081/thunderbd/4/chunks.m3u8?nimblesessionid=1598663&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MTY6MTQgUE0maGFzaF92YWx1ZT1Tbm5qanFQbElXMTdrN1F0VDhMelRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="News",DBC News
+http://tv.ebox.live:8081/thunderbd/7/chunks.m3u8?nimblesessionid=1598722&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MTY6NTYgUE0maGFzaF92YWx1ZT1SS0hkcUZLNVNwK1g4alFGN0c2akVnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="News",MyTV
+http://tv.ebox.live:8081/thunderbd/56/chunks.m3u8?nimblesessionid=1598800&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MTg6MTYgUE0maGFzaF92YWx1ZT14OXkzMWlkY2dRc1BXWnZ6RjBGSHZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="News",Dipto TV
+http://tv.ebox.live:8081/thunderbd/8/chunks.m3u8?nimblesessionid=1598859&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MTk6MTggUE0maGFzaF92YWx1ZT1TbGgxSk1JemRZQjFyK0VTaWhXTUtnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="News",SA TV
+http://tv.ebox.live:8081/thunderbd/15/chunks.m3u8?nimblesessionid=1598918&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MjA6MDUgUE0maGFzaF92YWx1ZT0rL0VpMFUyekxpdGRaWURpYml3UGtBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="News",Ekattor TV
+http://tv.ebox.live:8081/thunderbd/11/chunks.m3u8?nimblesessionid=1598967&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MjA6NDkgUE0maGFzaF92YWx1ZT1kMzZ2cG1MT2xxNlJXMHFmTnhYUklBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="News",Boishakhi TV
+http://tv.ebox.live:8081/thunderbd/61/chunks.m3u8?nimblesessionid=1599022&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MjE6NDMgUE0maGFzaF92YWx1ZT03QlJOanA0Q2tpVTFhWnZZYUpFamJ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="News",Nagorik TV
+http://tv.ebox.live:8081/thunderbd/59/chunks.m3u8?nimblesessionid=1599138&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MjM6MDAgUE0maGFzaF92YWx1ZT11NHhVOXlZZWxrazJvdlF0R1FXakdBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="News",Bangla TV
+http://tv.ebox.live:8081/thunderbd/19/chunks.m3u8?nimblesessionid=1599190&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MjM6NTIgUE0maGFzaF92YWx1ZT0rRzNRcG0rUHhZV1ZnNWZXZXRvNFNRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="News",Ananda TV
+http://tv.ebox.live:8081/thunderbd/16/chunks.m3u8?nimblesessionid=1599245&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MjQ6NDAgUE0maGFzaF92YWx1ZT1PWkVEWnMrcStkbCtDaDEzUjcrZzRBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="News",ATN News
+http://tv.ebox.live:8081/thunderbd/49/chunks.m3u8?nimblesessionid=1599294&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MjU6NDAgUE0maGFzaF92YWx1ZT1TNGU1L2JhUWNZdlVaa2pRRTFVVllnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Indian",Colors Bangla
+http://tv.ebox.live:8081/thunderbd/66/chunks.m3u8?nimblesessionid=1599340&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MjY6NTkgUE0maGFzaF92YWx1ZT1zdFJGNFdnUWRocE9jSmJUamUyY3V3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Indian",Sony AAT
+http://tv.ebox.live:8081/thunderbd/33/chunks.m3u8?nimblesessionid=1599448&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6Mjg6MjcgUE0maGFzaF92YWx1ZT1nVHdpclBzc0luNVRnem55UzhDQTJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Indian",Zee Bangla
+http://tv.ebox.live:8081/thunderbd/34/chunks.m3u8?nimblesessionid=1599599&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6Mjk6NDIgUE0maGFzaF92YWx1ZT0xeDFmVG1XczZuMmR4THlUQUpsdy9RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Indian",Zee Bangla Cinema
+http://tv.ebox.live:8081/thunderbd/29/chunks.m3u8?nimblesessionid=1599677&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MzA6NDEgUE0maGFzaF92YWx1ZT1jVUNNMXU3NU4vcjB1NGxFTSt6cnN3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Indian",Star Jalsha
+http://tv.ebox.live:8081/thunderbd/30/chunks.m3u8?nimblesessionid=1599717&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MzE6MjQgUE0maGFzaF92YWx1ZT04cGdHQTB2TTB0L1ZWbUtTcXFocjNBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="International",HBO
+http://tv.ebox.live:8081/thunderbd/42/chunks.m3u8?nimblesessionid=1599889&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MzI6MzYgUE0maGFzaF92YWx1ZT1JYkxGQVkyZlhWNFp4dGYxTTZBMVZnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="International",& Flix HD
+http://tv.ebox.live:8081/thunderbd/78/chunks.m3u8?nimblesessionid=1600005&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MzM6MzUgUE0maGFzaF92YWx1ZT04eG9RdUNUaHZLM0ZCMXhhbGMyMTJ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="International",Sony PIX
+http://tv.ebox.live:8081/thunderbd/41/chunks.m3u8?nimblesessionid=1600101&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MzQ6MzkgUE0maGFzaF92YWx1ZT13THBGQzhjRkZaQzFLUVArRkdYdGJRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="International",BBC World News
+http://tv.ebox.live:8081/thunderbd/44/chunks.m3u8?nimblesessionid=1600187&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MzU6MjEgUE0maGFzaF92YWx1ZT0vSWJvNWVDYUNMN0lwNTZNK09vNVpnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Movies",B4U Movies
+http://tv.ebox.live:8081/thunderbd/45/chunks.m3u8?nimblesessionid=1600304&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6MzY6MTEgUE0maGFzaF92YWx1ZT03bnRLQ0lOWnFTM2RGT2tJdmx5Ny93PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Movies",Star GOLD Select HD
+http://tv.ebox.live:8081/thunderbd/75/chunks.m3u8?nimblesessionid=1600482&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6Mzc6MzkgUE0maGFzaF92YWx1ZT13NzF3ZUg3OWc5Z0pmbjF2SnY4cXRnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Indian",Star Plus
+http://tv.ebox.live:8081/thunderbd/67/chunks.m3u8?nimblesessionid=1600669&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6Mzk6MTQgUE0maGFzaF92YWx1ZT1aS05tUUN6TGN2eDByTHZTREZmNFVRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Indian",Colors
+http://tv.ebox.live:8081/thunderbd/68/chunks.m3u8?nimblesessionid=1600786&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6NDA6MTcgUE0maGFzaF92YWx1ZT1UZWQxMlRSZWFPY3BVSitwWW5vS1FnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Indian",Sony Entertainment
+http://tv.ebox.live:8081/thunderbd/38/chunks.m3u8?nimblesessionid=1600898&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6NDE6MTAgUE0maGFzaF92YWx1ZT1nUDh3eDR4WnFqU25FT0p3Qkd6OXdnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Movies",Sony Max
+http://tv.ebox.live:8081/thunderbd/77/chunks.m3u8?nimblesessionid=1600978&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6NDE6NTggUE0maGFzaF92YWx1ZT1oV0grWG43THJPckRzeFh2MldYeXJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Sports",Sony Ten 1
+http://tv.ebox.live:8081/thunderbd/36/chunks.m3u8?nimblesessionid=1601045&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6NDM6MDIgUE0maGFzaF92YWx1ZT1NOWFhVllidEI2REdURmh6SjRhRmp3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="indian",Zee TV
+http://tv.ebox.live:8081/thunderbd/40/chunks.m3u8?nimblesessionid=1601124&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6NDQ6MTggUE0maGFzaF92YWx1ZT1GUFFZWTdYbHRQbWdscFNRVDlJNHBnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Movies",Zee Cinema
+http://tv.ebox.live:8081/thunderbd/76/chunks.m3u8?nimblesessionid=1601241&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6NDY6MzMgUE0maGFzaF92YWx1ZT13NDFGVUNVaFp6M2pPOVBoc2VBMFN3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Movies",& TV
+http://tv.ebox.live:8081/thunderbd/74/chunks.m3u8?nimblesessionid=1601281&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6NDc6MjkgUE0maGFzaF92YWx1ZT1Jbzh4OGhqUllJb0xaSTYvMFVCYmZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Sports",Star Sports
+http://tv.ebox.live:8081/thunderbd/25/chunks.m3u8?nimblesessionid=1601406&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6NDg6NTIgUE0maGFzaF92YWx1ZT1hVXpwRXloZGdNOTRETkpydEJNRU1nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Sports",Sony Six
+http://tv.ebox.live:8081/thunderbd/24/chunks.m3u8?nimblesessionid=1601504&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6NDk6NTcgUE0maGFzaF92YWx1ZT0rZUUwTUZTb1dEeHM4ZmlMMVdxU3hnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Sports",Sony Ten 1
+http://tv.ebox.live:8081/thunderbd/20/chunks.m3u8?nimblesessionid=1601546&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6NTA6MzUgUE0maGFzaF92YWx1ZT1QVURFclltWnZwVGx0NlhkalFLck9RPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Sports",Sony Ten 2
+http://tv.ebox.live:8081/thunderbd/21/chunks.m3u8?nimblesessionid=1601622&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6NTE6NTEgUE0maGFzaF92YWx1ZT1xcTBNU0JDVE1qc0ZvTURhWlVJeE5BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Sports",Sony Ten 3
+http://tv.ebox.live:8081/thunderbd/22/chunks.m3u8?nimblesessionid=1601674&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6NTI6NDkgUE0maGFzaF92YWx1ZT00bVFrSm1xYlZLb0tnc3laSUwzLzJ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Sports",Sony ESPN 2
+http://tv.ebox.live:8081/thunderbd/23/chunks.m3u8?nimblesessionid=1601713&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6NTM6MzAgUE0maGFzaF92YWx1ZT1OSWU2TFg2UkU4dHlSQzRxWVdkZVpRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Sports",Star Sports Select HD 1
+http://tv.ebox.live:8081/thunderbd/27/chunks.m3u8?nimblesessionid=1601755&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6NTQ6MTYgUE0maGFzaF92YWx1ZT1SeG5mZjI3N3lVWmxtQ0M3U2tsZlVnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Sports",Star Sports Select HD 2
+http://tv.ebox.live:8081/thunderbd/28/chunks.m3u8?nimblesessionid=1601806&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6NTU6MjUgUE0maGFzaF92YWx1ZT1SbTdNVW1RQ0xkK2xHQXlxTFZzTkxnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Music",Gaan Bangla
+http://tv.ebox.live:8081/thunderbd/58/chunks.m3u8?nimblesessionid=1601843&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6NTY6MjcgUE0maGFzaF92YWx1ZT04L2RVNmhDaWw1dXZVUVJwdFg2cTRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Music",Zoom
+http://tv.ebox.live:8081/thunderbd/60/chunks.m3u8?nimblesessionid=1601930&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6NTc6MjIgUE0maGFzaF92YWx1ZT1SdmFJeVUrMmZBWG5aaXphS3R3Tk9nPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Music",9XM
+http://tv.ebox.live:8081/thunderbd/48/chunks.m3u8?nimblesessionid=1602006&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6NTg6MTAgUE0maGFzaF92YWx1ZT1oUERqdldMTUZNcTBXYVcrVHZwMDdnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Music",9X Jalwa
+http://tv.ebox.live:8081/thunderbd/98/chunks.m3u8?nimblesessionid=1602062&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6NTg6NDggUE0maGFzaF92YWx1ZT1OQ3c4M21GdGhsU29QdXZjOVZjdFN3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Music",Sangeet Bangla
+http://tv.ebox.live:8081/thunderbd/96/chunks.m3u8?nimblesessionid=1602106&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDg6NTk6MzcgUE0maGFzaF92YWx1ZT1mOENqMzhGdkw3K2NtNlhYdDZINTh3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Music",Dhoom
+http://tv.ebox.live:8081/thunderbd/57/chunks.m3u8?nimblesessionid=1602163&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDk6MDA6MjcgUE0maGFzaF92YWx1ZT1yRG5CbWpuQTFFM3ZqdEhuK1NwL2RnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 group-title="Indian",Kolkata TV
+http://tv.ebox.live:8081/thunderbd/46/chunks.m3u8?nimblesessionid=1602318&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDk6MDE6NTEgUE0maGFzaF92YWx1ZT1KakZTNTRvNGhocEhvbUJLNkVSc3lBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+EXTINF:-1 group-title="Info",Discovery HD
+http://tv.ebox.live:8081/thunderbd/43/chunks.m3u8?nimblesessionid=1602435&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDk6MDI6NDMgUE0maGFzaF92YWx1ZT1na2FOM2FOZkF1d2NjS3BNVG5zVTl3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+EXTINF:-1 group-title="Info",National Geographic Channel
+http://tv.ebox.live:8081/thunderbd/35/chunks.m3u8?nimblesessionid=1602555&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDk6MDQ6MDAgUE0maGFzaF92YWx1ZT1rMnB0WmREem1hZGVwNkM4ZWNYUFBBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+EXTINF:-1 group-title="Info",Duronto TV
+http://tv.ebox.live:8081/thunderbd/10/chunks.m3u8?nimblesessionid=1602613&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDk6MDU6MDAgUE0maGFzaF92YWx1ZT1OSWt5VEdyMWNjd1FFZDM5anRJSFFBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+EXTINF:-1 group-title="Info",Nick Jr.
+http://tv.ebox.live:8081/thunderbd/55/chunks.m3u8?nimblesessionid=1602669&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDIxIDk6MDU6MzcgUE0maGFzaF92YWx1ZT1CdTFsemJPbXN4N2JlTHhTRk9XdlB3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
